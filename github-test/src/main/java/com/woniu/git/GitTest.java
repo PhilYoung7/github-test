@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hot-fix,git!");
         System.out.println("github test!");
         System.out.println("github test2!");
+        System.out.println("github test3!");
     }
 }
